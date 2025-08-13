@@ -21,7 +21,7 @@ You need one of these to join the ceremony:
 Your GitHub account must meet the following criteria:
 * At least a month old.
 * At least one public repository.
-* At least 5 GitHub accounts and have at least 1 follower.
+* At least following 5 GitHub accounts and have at least 1 follower.
 * Must allow the ceremony tools to read and write GitHub Gists on your account.
 
 ### Internet Connection
