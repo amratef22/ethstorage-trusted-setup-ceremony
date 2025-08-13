@@ -55,18 +55,20 @@ source ~/.bashrc
 ---
 
 ## Install Ceremony
-Step 1. Create a directory in your home folder to run the ceremony from.
+### Step 1. Create a directory in your home folder to run the ceremony from:
 ```
 mkdir ~/trusted-setup-tmp && cd ~/trusted-setup-tmp
 ```
 
-Step 2: Install CLI
+### Step 2: Install CLI:
 ```
 npm install -g @p0tion/phase2cli
 ```
 
-Step 3: Authenticate with GitHub
-To contribute to the ceremony, you’ll need a legit GitHub account as explained [here](###gitHub-account). Run this command in your terminal.
+### Step 3: Authenticate with GitHub:
+To contribute to the ceremony, you’ll need a legit GitHub account as explained [here](#gitHub-account)
+
+Run this command in your terminal:
 ```
 phase2cli auth
 ```
