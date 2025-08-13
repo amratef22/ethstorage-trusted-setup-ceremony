@@ -14,7 +14,7 @@ EthStorage is a Layer 2 that lets you store data on-chain and use it for games, 
 You need one of these to join the ceremony:
 * Linux
 * MacOS system
-* [WSL (linux) on Windows](https://github.com/0xmoei/Install-Linux-on-Windows).
+* [WSL (linux) on Windows](https://github.com/0xmoei/Install-Linux-on-Windows)
 * [VPS with Ubuntu OS ](https://github.com/0xmoei/Linux_Node_Guide)
 
 ### GitHub Account
