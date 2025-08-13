@@ -27,6 +27,8 @@ Your GitHub account must meet the following criteria:
 ### Internet Connection
 You need a stable internet connection on your local system or a VPS to stay in the ceremony queue for hours, waiting for your turn.
 
+---
+
 ## Install Dependecies
 1. Packages:
 ```
@@ -50,6 +52,7 @@ nvm use 18
 source ~/.bashrc
 ```
 
+---
 
 ## Install Ceremony
 Step 1. Create a directory in your home folder to run the ceremony from.
@@ -69,6 +72,8 @@ phase2cli auth
 ```
 * This will prompt you to open a browser and visit [https://github.com/login/device](https://github.com/login/device)
 * Copy the provided auth code in terminal and paste in the auth page . Click "Authorize ethstorage" to continue.
+
+---
 
 ## Contribute Ceremony
 ### Open a screen
@@ -94,13 +99,17 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 * Kill screen when outside screen: `screen -XS ceremony quit`
 * screens list: `screen -ls`
 
-### Notes:
+---
+
+## Notes:
 * Contributing may take some time, depending on the current queue of contributors.
 * If your connection is interrupted or an error occurs, simply re-run the same command — it will pick up from where it left off.
 
 ### After completing your contribution, you will be invited to share a message on X or your preferred social platform! 🎉
 
-### Cleanup & Logout
+---
+
+## Cleanup & Logout
 After completing your contribution to the ceremony, it’s recommended to clean up your local files and revoke GitHub authorization for security:
 ```
 phase2cli clean
@@ -111,6 +120,7 @@ Delete the ceremony folder too if you don’t need it:
 rm -rf ~/trusted-setup-tmp
 ```
 
+---
 
 ## FAQs
 Q: I received the message “Your contribution took longer than the estimated time and you were removed as the current contributor.” What should I do?
