@@ -3,7 +3,7 @@ Detailed guide to contribute to the ceremony which is conducted for our Groth16 
 
 <img width="1000" height="560" alt="image" src="https://github.com/user-attachments/assets/5ca0d27d-48ee-4753-9775-791eea3823c8" />
 
-EthStorage is a Layer 2 that lets you store data on-chain and use it for games, socials, AI—whatever you want. It makes sure no one can fake data or pretend to store stuff they don’t. This ceremony’s all about making sure EthStorage stays secure and decentralized. 
+EthStorage is a Layer 2 that lets you store data on-chain and use it for games, socials, AI. It makes sure no one can fake data or pretend to store stuff they don’t. This ceremony’s all about making sure EthStorage stays secure and decentralized. 
 
 **Ceremony’s from August 13 to 22, 2025.**
 
